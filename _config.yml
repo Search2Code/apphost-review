@@ -1,0 +1,5 @@
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Hosting Review Information 
+description: Find the best SEO hosting providers with in-depth reviews, comparisons, and expert recommendations. Optimize your website's performance and ranking with top-rated hosts.
