@@ -3,6 +3,7 @@ BestSEOHosting.info is your ultimate resource for finding top-notch SEO-friendly
 
 [Review Hosting Page](https://search2code.github.io/apphost-review/)
 
+[Trustpilot](https://www.trustpilot.com/review/bestseohosting.info): Get more info on Trustpilot
 1. [500v.net - BestSEOHosting.info](http://500v.net/site/bestseohosting.info): Comprehensive review and hosting details.
 2. [Archive.is - BestSEOHosting.info](http://archive.is/bestseohosting.info): Archived snapshot of BestSEOHosting.info.
 3. [Boardreader - BestSEOHosting.info Link Info](http://boardreader.com/linkinfo/bestseohosting.info): Link information and forum mentions.
